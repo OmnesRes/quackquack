@@ -1,0 +1,79 @@
+Bottomless Bowls: Why Visual Cues of Portion Size May Influence Intake
+
+Table 1. Biased visual cues unknowingly influence overconsumption
+Reported:	8.99	Exact:	9.63	Possible:	9.2-10.08
+Reported:	8.99	Exact:	9.65	Possible:	9.63-9.67
+Reported:	0.46	Exact:	0.52	Possible:	0.45-0.6
+Reported:	0.03	Exact:	0.03	Possible:	0.03-0.03
+Reported:	0.69	Exact:	0.39	Possible:	0.21-0.64
+Reported:	0.00	Exact:	0.0	Possible:	0.0-0.02
+Reported:	0.31	Exact:	0.41	Possible:	0.22-0.66
+Reported:	0.20	Exact:	0.2	Possible:	0.09-0.37
+Reported:	0.03	Exact:	0.02	Possible:	0.0-0.09
+Reported:	0.00	Exact:	0.02	Possible:	0.0-0.08
+Reported:	0.63	Exact:	0.54	Possible:	0.29-0.89
+Reported:	1.03	Exact:	0.89	Possible:	0.59-1.27
+Reported:	1.47	Exact:	1.42	Possible:	1.0-1.95
+Reported:	0.04	Exact:	0.04	Possible:	0.0-0.19
+
+Ice Cream Illusions Bowls, Spoons, and Self-Served Portion Sizes
+
+Table 1. How bowl and serving spoon size influence self-served portions
+Reported:	8.05	2.70	0.01	Exact:	8.57	2.11	0.01	Possible:	8.41-8.72	2.05-2.18	0.0-0.01
+Reported:	0.04	0.46	1.55	Exact:	0.09	1.03	1.41	Possible:	0.09-0.1	1.01-1.05	1.39-1.43
+Reported:	6.28	9.45	2.20	Exact:	6.45	10.65	2.19	Possible:	6.09-6.81	10.17-11.16	2.0-2.38
+Reported:	1.86	28.51	1.87	Exact:	2.18	26.73	1.64	Possible:	2.02-2.35	25.95-27.53	1.5-1.79
+Reported:	3.45	0.62	1.24	Exact:	3.59	0.78	1.23	Possible:	3.58-3.6	0.77-0.78	1.22-1.24
+Reported:	11.30	2.85	1.75	Exact:	9.39	5.62	1.99	Possible:	9.2-9.59	5.48-5.76	1.92-2.07
+Reported:	0.13	32.19	3.36	Exact:	0.18	37.59	3.51	Possible:	0.15-0.21	36.98-38.21	3.37-3.64
+Reported:	10.40	0.00	1.61	Exact:	9.15	0.21	1.83	Possible:	8.96-9.34	0.19-0.23	1.76-1.91
+Reported:	1.00	24.44	0.75	Exact:	1.02	26.17	0.75	Possible:	0.96-1.09	25.72-26.63	0.7-0.81
+
+How descriptive food names bias sensory perceptions in restaurants
+
+Table 1. Descriptive food names influence sensory perceptions in restaurants
+Reported:	6.49	Exact:	6.46	Possible:	6.27-6.66
+Reported:	3.94	Exact:	4.14	Possible:	3.94-4.34
+Reported:	1.36	Exact:	57.68	Possible:	56.88-58.5
+Reported:	3.32	Exact:	3.09	Possible:	3.09-3.09
+
+Table 2. There were no differences betwen the two samples of consumers
+Reported:	1.53	Exact:	1.08	Possible:	1.02-1.21
+Reported:	2.71	Exact:	1.89	Possible:	1.8-2.07
+Reported:	2.08	Exact:	1.65	Possible:	1.64-1.68
+
+The Flat-Rate Pricing Paradox: Conflicting Effects of "All-You-Can-Eat" Buffet Pricing
+
+Table 1. How All-You-Can-Eat Buffets Influence Consumption and Satisfaction
+Reported:	5.97	Exact:	6.01	Possible:	5.89-6.37
+Reported:	6.52	Exact:	6.45	Possible:	6.3-6.94
+Reported:	5.30	Exact:	5.35	Possible:	5.14-6.01
+Reported:	6.52	Exact:	6.51	Possible:	6.51-6.52
+Reported:	6.52	Exact:	6.53	Possible:	6.52-6.57
+Reported:	2.09	Exact:	2.04	Possible:	1.82-2.66
+Reported:	6.04	Exact:	6.02	Possible:	5.89-6.45
+Reported:	0.01	Exact:	0.02	Possible:	0.02-0.02
+Reported:	2.50	Exact:	2.49	Possible:	2.46-2.57
+Reported:	2.36	Exact:	2.4	Possible:	2.31-2.64
+Reported:	2.24	Exact:	2.29	Possible:	2.2-2.53
+Reported:	0.32	Exact:	0.31	Possible:	0.28-0.36
+Reported:	1.88	Exact:	1.87	Possible:	1.79-2.06
+Reported:	1.85	Exact:	1.85	Possible:	1.75-2.09
+Reported:	0.48	Exact:	0.5	Possible:	0.47-0.57
+Reported:	0.01	Exact:	0.01	Possible:	0.01-0.01
+Reported:	0.09	Exact:	0.08	Possible:	0.07-0.1
+Reported:	0.50	Exact:	0.5	Possible:	0.5-0.51
+Reported:	1.37	Exact:	1.25	Possible:	1.0-1.93
+Reported:	1.44	Exact:	0.91	Possible:	0.37-4.03
+Reported:	1.37	Exact:	1.36	Possible:	1.29-1.51
+
+
+Bad Popcorn in Big Buckets: Portion Size Can Influence Intake as Much as Taste
+
+Table 1. Random Assignment of Moviegoers Showed No Age or Gender Differences 
+Reported:	0.465	Exact:	0.482	Possible:	0.447-0.518
+
+Table 2. Larger Containers Influence Consumption Volume of Both Fresh and Stale Popcorn
+Reported:	52.4	101.8	7.4	Exact:	54.18	107.74	6.71	Possible:	53.32-55.06	106.34-109.16	6.48-6.95
+Reported:	19.5	201.1	2.5	Exact:	20.62	215.27	1.95	Possible:	16.65-25.28	194.41-238.44	1.04-3.22
+Reported:	5.6	194.0	0.4	Exact:	6.01	211.71	0.67	Possible:	4.29-8.14	192.22-233.25	0.23-1.38
