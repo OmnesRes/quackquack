@@ -1,5 +1,3 @@
-from scipy.stats import f
-from scipy.stats import ttest_ind_from_stats
 from itertools import combinations_with_replacement
 from itertools import permutations
 def one_way(means,sds,sizes):
@@ -53,7 +51,10 @@ import rpy2.robjects.numpy2ri
 rpy2.robjects.numpy2ri.activate()
 ro.r('library(rpsychi)')
 
-print 
+print
+print 'Ice Cream Illusions Bowls, Spoons, and Self-Served Portion Sizes'
+print
+print 'Table 1. How bowl and serving spoon size influence self-served portions'
 f1=open('ice_cream.txt')
 data=[i.strip().split() for i in f1]
 ##all possible changes:
@@ -108,7 +109,7 @@ for i in data:
           str(round(min_row,2))+'-'+str(round(max_row,2))+'\t'+\
           str(round(min_row_column,2))+'-'+str(round(max_row_column,2))
 
-
+print
 print 'How descriptive food names bias sensory perceptions in restaurants'
 print
 print 'Table 1. Descriptive food names influence sensory perceptions in restaurants'
@@ -174,7 +175,9 @@ for i in data:
 
 
 print
-print 'pizza'
+print 'The Flat-Rate Pricing Paradox: Conflicting Effects of "All-You-Can-Eat" Buffet Pricing'
+print
+print 'Table 1. How All-You-Can-Eat Buffets Influence Consumption and Satisfaction'
 f1=open('pizza.txt')
 data=[i.strip().split() for i in f1]
 for i in data:
