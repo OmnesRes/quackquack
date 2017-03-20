@@ -161,7 +161,7 @@ for i in data:
         min_means=means
     min_test=one_way(min_means,min_sds,sizes)
     ##for max make sds smaller, means farther apart
-    max_sds=[sd-.05 for sd in sds]
+    max_sds=[sd-.005 for sd in sds]
     if means[0]<means[1]:
         max_means=[means[0]-.005,means[1]+.005]
     elif means[1]<means[0]:
@@ -195,7 +195,7 @@ for i in data:
         min_means=means
     min_test=one_way(min_means,min_sds,sizes)
     ##for max make sds smaller, means farther apart
-    max_sds=[sd-.05 for sd in sds]
+    max_sds=[sd-.005 for sd in sds]
     if means[0]<means[1]:
         max_means=[means[0]-.005,means[1]+.005]
     elif means[1]<means[0]:

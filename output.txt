@@ -38,34 +38,34 @@ Reported:	1.36	Exact:	57.68	Possible:	56.88-58.5
 Reported:	3.32	Exact:	3.09	Possible:	3.09-3.09
 
 Table 2. There were no differences betwen the two samples of consumers
-Reported:	1.53	Exact:	1.08	Possible:	1.02-1.21
-Reported:	2.71	Exact:	1.89	Possible:	1.8-2.07
-Reported:	2.08	Exact:	1.65	Possible:	1.64-1.68
+Reported:	1.53	Exact:	1.08	Possible:	1.02-1.15
+Reported:	2.71	Exact:	1.89	Possible:	1.8-1.98
+Reported:	2.08	Exact:	1.65	Possible:	1.64-1.66
 
 The Flat-Rate Pricing Paradox: Conflicting Effects of "All-You-Can-Eat" Buffet Pricing
 
 Table 1. How All-You-Can-Eat Buffets Influence Consumption and Satisfaction
-Reported:	5.97	Exact:	6.01	Possible:	5.89-6.37
-Reported:	6.52	Exact:	6.45	Possible:	6.3-6.94
-Reported:	5.30	Exact:	5.35	Possible:	5.14-6.01
-Reported:	6.52	Exact:	6.51	Possible:	6.51-6.52
-Reported:	6.52	Exact:	6.53	Possible:	6.52-6.57
-Reported:	2.09	Exact:	2.04	Possible:	1.82-2.66
-Reported:	6.04	Exact:	6.02	Possible:	5.89-6.45
+Reported:	5.97	Exact:	6.01	Possible:	5.89-6.12
+Reported:	6.52	Exact:	6.45	Possible:	6.3-6.6
+Reported:	5.30	Exact:	5.35	Possible:	5.14-5.56
+Reported:	6.52	Exact:	6.51	Possible:	6.51-6.51
+Reported:	6.52	Exact:	6.53	Possible:	6.52-6.54
+Reported:	2.09	Exact:	2.04	Possible:	1.82-2.27
+Reported:	6.04	Exact:	6.02	Possible:	5.89-6.16
 Reported:	0.01	Exact:	0.02	Possible:	0.02-0.02
-Reported:	2.50	Exact:	2.49	Possible:	2.46-2.57
-Reported:	2.36	Exact:	2.4	Possible:	2.31-2.64
-Reported:	2.24	Exact:	2.29	Possible:	2.2-2.53
-Reported:	0.32	Exact:	0.31	Possible:	0.28-0.36
-Reported:	1.88	Exact:	1.87	Possible:	1.79-2.06
-Reported:	1.85	Exact:	1.85	Possible:	1.75-2.09
-Reported:	0.48	Exact:	0.5	Possible:	0.47-0.57
+Reported:	2.50	Exact:	2.49	Possible:	2.46-2.53
+Reported:	2.36	Exact:	2.4	Possible:	2.31-2.49
+Reported:	2.24	Exact:	2.29	Possible:	2.2-2.39
+Reported:	0.32	Exact:	0.31	Possible:	0.28-0.34
+Reported:	1.88	Exact:	1.87	Possible:	1.79-1.95
+Reported:	1.85	Exact:	1.85	Possible:	1.75-1.95
+Reported:	0.48	Exact:	0.5	Possible:	0.47-0.54
 Reported:	0.01	Exact:	0.01	Possible:	0.01-0.01
-Reported:	0.09	Exact:	0.08	Possible:	0.07-0.1
+Reported:	0.09	Exact:	0.08	Possible:	0.07-0.09
 Reported:	0.50	Exact:	0.5	Possible:	0.5-0.51
-Reported:	1.37	Exact:	1.25	Possible:	1.0-1.93
-Reported:	1.44	Exact:	0.91	Possible:	0.37-4.03
-Reported:	1.37	Exact:	1.36	Possible:	1.29-1.51
+Reported:	1.37	Exact:	1.25	Possible:	1.0-1.52
+Reported:	1.44	Exact:	0.91	Possible:	0.37-1.74
+Reported:	1.37	Exact:	1.36	Possible:	1.29-1.42
 
 
 Bad Popcorn in Big Buckets: Portion Size Can Influence Intake as Much as Taste
